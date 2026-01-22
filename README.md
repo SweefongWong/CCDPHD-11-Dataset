@@ -5,6 +5,7 @@ The provided dataset is a part of our full dataset. Owing to the policy restrict
 
 Citation Information:
 
+```bibtex
 @article{wang2025resource,
   title={Resource-Efficient Cotton Network: A Lightweight Deep Learning Framework for Cotton Disease and Pest Classification},
   author={Wang, Zhengle and Zhang, Heng-Wei and Dai, Ying-Qiang and Cui, Kangning and Wang, Haihua and Chee, Peng W and Wang, Rui-Feng},
